@@ -1,0 +1,10 @@
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Form1.resources
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Properties.Resources.resources
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.GenerateResource.Cache
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.pdb
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.exe
+C:\Users\7\Documents\Visual Studio 2008\Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
+G:\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.exe
+G:\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
